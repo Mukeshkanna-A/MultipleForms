@@ -19,8 +19,7 @@ const ParentComponent = () => {
     address: "",
     pincode: "",
     gender: "",
-    course: "",
-    terms: false
+    course: ""
   })
   
 
